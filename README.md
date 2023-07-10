@@ -13,7 +13,7 @@ To update VS just run the `Layout Update.bat` file.
 To clean old setup files after an update:
 1. Go to `\Layout\Archive` folder.
 2. Check the content of every subfolder:
-  1. Ignore all folders that contain a file named: `Catalog_cleaned.json`.
-  2. Copy the name of the folder (GUID) that contains a file named: `Catalog.json`.
-  3. Paste the name of the folder (GUID) inside the `Layout Clean.bat` file replacing the default written GUID in the file.
+    1. Ignore all folders that contain a file named: `Catalog_cleaned.json`.
+    2. Copy the name of the folder (GUID) that contains a file named: `Catalog.json`.
+    3. Paste the name of the folder (GUID) inside the `Layout Clean.bat` file replacing the default written GUID in the file.
 4. Run the `Layout Clean.bat` file.
